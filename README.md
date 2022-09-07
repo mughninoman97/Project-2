@@ -1,14 +1,12 @@
-# PROJECT NO. 1
+# PROJECT NO. 2
 
 This is my Second project of Web Development. In this project I have learnt a lot of new concepts of CSS like positioning background images, blur background, float property, hovering effects etc. 
 
 FULL WEBPAGE:
 ![Project2]( /sc/full.png "proj2 image")
 
-
 NAVBAR:
 ![Project2]( /sc/nav.PNG "proj2 image")
-
 
 BODY:
 ![Project2]( /sc/body.PNG "pro21 image")
