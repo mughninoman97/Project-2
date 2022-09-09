@@ -2,6 +2,8 @@
 
 This is my Second project of Web Development. In this project I have learnt a lot of new concepts of CSS like positioning background images, blur background, float property, hovering effects etc. 
 
+> [Check out my project here](https://project-2-by-noman.netlify.app/)
+
 FULL WEBPAGE:
 ![Project2]( /sc/full.png "proj2 image")
 
